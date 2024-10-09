@@ -36,11 +36,11 @@
 
 ### Imagens
 
-> Imagem 1..........Mapa de Calor - Correlação das notas de Matemática com escola, internet e ingresso em ensino superior.
+> Imagem 1....................Mapa de Calor - Correlação das notas de Matemática com escola, internet e ingresso em ensino superior.
 >
-> Imagem 2..........Mapa de Calor - Correlação das notas de Português com escola, internet e ingresso em ensino superior.
+> Imagem 2....................Mapa de Calor - Correlação das notas de Português com escola, internet e ingresso em ensino superior.
 >
-> Imagem 3..........Tabela - Resultados e métricas dos Modelos treinados.
+> Imagem 3....................Tabela - Resultados e métricas dos Modelos treinados.
 
 # 2 - Planejamento dos Modelos
 ##### Com os dados analisados e algumas conclusões feitas, o próximo passo é utilizar modelos de Machine Learning com o objetivo de prever as notas dos alunos com base em algumas características.
